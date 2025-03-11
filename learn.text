@@ -2,6 +2,7 @@ git add -A =>add  in all changes
 
 git commit -m "commit message"
 
+
 git init=>initialize
 
 git status=>list all untracked files
@@ -9,3 +10,9 @@ git status=>list all untracked files
 git add- A =>adding all changes to staging area
 
 git commit -m =>"commit message"=>adding staged files to local repository
+
+git remote add origin https://github.com/Athira07052002/git.basics.git
+
+git remote -v
+
+https://github.com/Athira07052002/git.basics.git
