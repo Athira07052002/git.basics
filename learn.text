@@ -1,0 +1,11 @@
+git add -A =>add  in all changes
+
+git commit -m "commit message"
+
+git init=>initialize
+
+git status=>list all untracked files
+
+git add- A =>adding all changes to staging area
+
+git commit -m =>"commit message"=>adding staged files to local repository
