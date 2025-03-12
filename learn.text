@@ -18,3 +18,7 @@ git remote -v
 https://github.com/Athira07052002/git.basics.git
 
 git branch =>list all branches
+
+git branch branch_name=>to create a branch
+
+git checkout branch_name=>to shift a branch to another branch
