@@ -16,3 +16,5 @@ git remote add origin https://github.com/Athira07052002/git.basics.git
 git remote -v
 
 https://github.com/Athira07052002/git.basics.git
+
+git branch =>list all branches
